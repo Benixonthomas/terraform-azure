@@ -1,0 +1,8 @@
+.terraform/*
+.terraform.*
+modules/network-N01595234/.terraform/*
+modules/network-N01595234/.terraform.*
+modules/rgroup-N01595234/.terraform/*
+modules/ngroup-N01595234/.terraform.*
+modules/vmlinux-N01595234/.terraform/*
+modules/vmlinux-N01595234/.terraform.*
